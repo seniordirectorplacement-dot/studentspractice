@@ -1,0 +1,6 @@
+{
+  "name": "Product Companies Preparation Hub",
+  "description": "A comprehensive placement preparation platform featuring curated DSA practice catalog, 40-week AI Skill Course, 9-domain Core CSE roadmap, certifications, learner analytics, and profile tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
